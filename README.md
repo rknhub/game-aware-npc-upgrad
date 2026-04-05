@@ -1,7 +1,7 @@
 # Game-Aware NPC: Player-Based NPC Behaviour Generation for Blockchain Gaming
 
 **Author:** Ramesh Krishnan  
-**Programme:** MSc Machine Learning — Liverpool John Moores University (upGrad MSML C26)  
+**Programme:** MSc Machine Learning — Liverpool John Moores University (MSML C26)  
 **Submitted:** April 2026
 
 ---
@@ -76,7 +76,7 @@ Systematic quality audit of the generated dataset. Identifies and removes homoge
 
 Targeted fix for hallucinated numeric values in training samples — a key cause of price hallucination in deployed dialogue. Implements the NUMERIC AUTHORITY system prompt rules and applies 22-pattern phantom token filters. Reduces hallucination rate from ~20% to 6.7% in final evaluation.
 
-**Outputs:** Numerically validated dataset; hallucination pattern catalogue.
+**Outputs:** Numerically validated dataset; hallucination pattern catalogue - 3894 samples ready for training.
 
 ---
 
